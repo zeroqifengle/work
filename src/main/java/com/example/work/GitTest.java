@@ -9,7 +9,7 @@ public class GitTest {
 
         System.out.println("springBoot1");
 
-        System.out.println("master分支");
+        System.out.println("springBoot2");
 
 
     }
