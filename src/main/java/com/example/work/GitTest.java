@@ -12,6 +12,8 @@ public class GitTest {
         System.out.println("springBoot2");
 
         System.out.println("git push");
+        
+        System.out.println("git pull");
 
 
     }
