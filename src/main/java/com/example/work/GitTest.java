@@ -8,6 +8,8 @@ public class GitTest {
         System.out.println("springBoot");
 
         System.out.println("springBoot1");
+
+        System.out.println("springBoot2");
     }
 
 }
